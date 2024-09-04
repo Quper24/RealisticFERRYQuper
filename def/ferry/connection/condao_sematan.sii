@@ -1,0 +1,15 @@
+SiiNunit
+
+{
+
+ferry_connection : conn.condao.sematan {
+
+	price: 500
+
+	time: 960
+
+	distance: 655
+
+}
+
+}

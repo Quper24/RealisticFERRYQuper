@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.sevas.istanbul{
+	price: 1260
+	time: 1160
+	distance: 626
+
+}
+}
+

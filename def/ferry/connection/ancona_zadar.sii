@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.ancona.zadar{
+	price: 1500
+	time: 360
+	distance: 180
+}
+}
+

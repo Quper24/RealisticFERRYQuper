@@ -1,0 +1,16 @@
+SiiNunit
+
+{
+
+ferry_connection : conn.portsaid.mersin{
+	          price: 1700
+
+	time: 1125
+
+	distance: 650
+
+
+}
+
+}
+

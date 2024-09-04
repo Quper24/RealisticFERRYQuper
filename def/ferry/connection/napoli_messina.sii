@@ -1,0 +1,16 @@
+SiiNunit
+
+{
+
+ferry_connection : conn.napoli.messina{
+
+	price: 1500
+
+	time: 630
+
+	distance: 300
+
+}
+
+}
+

@@ -1,0 +1,15 @@
+SiiNunit
+
+{
+
+ferry_connection : conn.sematan.centralarea {
+
+	price: 500
+
+	time: 960
+
+	distance: 665
+
+}
+
+}

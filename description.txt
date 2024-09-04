@@ -1,0 +1,4 @@
+[blue]Quper Realistic Ferry[blue]
+[normal]
+* Настроены паромные переправы с различными картами
+[red]Этот мод не совместим с RealisticEconomyQuper[red]

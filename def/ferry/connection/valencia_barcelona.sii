@@ -1,0 +1,17 @@
+SiiNunit
+
+{
+
+ferry_connection : conn.valencia.barcelona{
+
+        price: 1000
+
+	time: 425
+
+	distance: 250
+
+
+}
+
+}
+

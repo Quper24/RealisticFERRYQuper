@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.surgut.barnaul {
+	price: 1443
+	time: 2880
+	distance: 2222
+}
+}

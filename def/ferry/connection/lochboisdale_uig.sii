@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.lochboisdale.uig {
+	price: 220
+	time: 125
+	distance: 80
+}
+}

@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.beihai.lhasa {
+	price: 1900
+	time: 3000
+	distance: 2507
+}
+}
+

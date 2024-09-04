@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.tripoli.valletta{
+	price: 1150
+	time: 760
+	distance: 480
+}
+}

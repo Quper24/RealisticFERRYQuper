@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.baku.poti{
+	price: 1022
+	time: 666
+	distance: 350
+}
+}

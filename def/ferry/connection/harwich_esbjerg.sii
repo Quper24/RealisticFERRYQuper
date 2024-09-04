@@ -1,0 +1,16 @@
+SiiNunit
+
+{
+
+ferry_connection : conn.harwich.esbjerg{
+	        price: 1800
+
+	time: 1125
+
+	distance: 550
+
+
+}
+
+}
+

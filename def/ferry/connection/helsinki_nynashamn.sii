@@ -1,0 +1,14 @@
+SiiNunit
+{
+ferry_connection : conn.helsinki.nynashamn{
+	price: 1500
+
+	time: 719
+
+	distance: 400
+
+
+
+}
+}
+

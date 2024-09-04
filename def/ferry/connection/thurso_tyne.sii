@@ -1,0 +1,16 @@
+SiiNunit
+
+{
+
+ferry_connection : conn.thurso.tyne{
+	        price: 1400
+
+	time: 925
+
+	distance: 550
+
+
+}
+
+}
+

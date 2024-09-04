@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.esbjerg.hirtshals{
+	price: 1200
+	time: 710
+	distance: 420
+}
+}
+

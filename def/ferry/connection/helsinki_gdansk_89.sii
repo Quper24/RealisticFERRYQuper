@@ -1,0 +1,16 @@
+SiiNunit
+
+{
+
+ferry_connection : conn.helsinki.gdansk_89{
+
+	price: 2500
+
+	time: 1299
+
+	distance: 700
+
+}
+
+}
+

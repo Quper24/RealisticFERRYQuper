@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.melila.algiers{
+	price: 1222
+	time: 1172
+	distance: 590
+}
+
+}
+
