@@ -80,7 +80,6 @@ SiiNunit
 @include "ferry/travemunde_p.sui"
 @include "ferry/trent.sui"
 @include "ferry/trieste.sui"
-@include "ferry/tunis.sii"
 @include "ferry/tunnel_c.sui"
 @include "ferry/tunnel_d.sui"
 @include "ferry/tyne.sui"
