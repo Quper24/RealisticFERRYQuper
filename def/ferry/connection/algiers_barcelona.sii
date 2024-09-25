@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.algiers.barcelona{
-	price: 1500
+	price: 150
 	time: 888
 	distance: 520
 }

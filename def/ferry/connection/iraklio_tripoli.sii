@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.iraklio.tripoli {
-	price: 1127
+	price: 112
 	time: 2047
 	distance: 1280
 }

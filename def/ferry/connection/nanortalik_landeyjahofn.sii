@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.nanortalik.landeyjahofn{
-	price: 2700
+	price: 270
 	time: 2300
 	distance: 1430
 

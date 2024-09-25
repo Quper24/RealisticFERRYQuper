@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.keelung.calais {
-	price: 10184
+	price: 1018
 	time: 10220	
 	distance: 5549
 }

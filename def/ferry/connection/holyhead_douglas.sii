@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.holyhead.douglas {
-	price: 1100
+	price: 110
 	time: 250
 	distance: 200
 }

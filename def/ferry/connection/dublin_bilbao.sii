@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.dublin.bilbao {
-	price: 2397
+	price: 239
 	time: 1598
 	distance: 791
 }

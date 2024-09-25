@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.iraklio.izmir {
-	price: 927
+	price: 92
 	time: 907
 	distance: 480
 }

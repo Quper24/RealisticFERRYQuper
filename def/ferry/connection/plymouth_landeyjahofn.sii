@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.plymouth.landeyjahofn{
-	price: 2700
+	price: 270
 	time: 2630
 	distance: 1430
 

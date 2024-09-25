@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.europoort.dover {
-	price: 1124
+	price: 112
 	time: 650
 	distance: 405
 }

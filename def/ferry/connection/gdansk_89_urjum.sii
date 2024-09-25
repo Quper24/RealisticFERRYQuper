@@ -1,6 +1,6 @@
 SiiNunit{
   ferry_connection : conn.gdansk_89.urjum {
-	price: 1500
+	price: 150
 	time: 1720
 	distance: 750
 }

@@ -1,7 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.vlor2.igoumenitsa {
-	price: 120	time: 180
+	price: 12
+	time: 180
 	distance: 120
 }
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.istanbul.novorossiysk{
-	price: 1260
+	price: 100
 	time: 1260
 	distance: 626
 

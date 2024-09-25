@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.rhodes.athen {
-	price: 707
+	price: 70
 	time: 587
 	distance: 270
 }

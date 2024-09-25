@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.odessa.sevas{
-	price: 960
+	price: 96
 	time: 616
 	distance: 356
 

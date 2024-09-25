@@ -1,9 +1,9 @@
 SiiNunit
 {
-ferry_connection : conn.mogadishu.male {
-	price: 2500
-	time: 750
-	distance: 500
+ferry_connection : conn.mogadishu.male{
+	price: 276
+	time: 3372
+	distance: 1889
 }
 }
 

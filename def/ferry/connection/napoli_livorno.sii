@@ -1,16 +1,9 @@
 SiiNunit
-
 {
-
 ferry_connection : conn.napoli.livorno{
-
-	price: 1500
-
+	price: 150
 	time: 726
-
 	distance: 350
-
 }
-
 }
 

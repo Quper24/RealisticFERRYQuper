@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.mogadishu.mcmurdo {
-	price: 25300
+	price: 2530
 	time: 7148
 	distance: 7616
 }

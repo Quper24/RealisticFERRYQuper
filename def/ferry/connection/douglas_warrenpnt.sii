@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.douglas.warrenpnt {
-	price: 1100
+	price: 110
 	time: 350
 	distance: 200
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.karlskrona.swinoujscie {
-	price: 700
+	price: 70
 	time: 620
 	distance: 400
 }

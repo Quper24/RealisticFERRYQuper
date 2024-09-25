@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.athen.thessaloniki {
-	price: 761
+	price: 76
 	time: 756
 	distance: 415
 }

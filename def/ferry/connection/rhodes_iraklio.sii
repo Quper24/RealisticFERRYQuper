@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.rhodes.iraklio {
-	price: 727
+	price: 72
 	time: 617
 	distance: 280
 }

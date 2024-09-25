@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.thurso.olonkinbyen{
-	price: 1100
+	price: 110
 	time: 1800
 	distance: 1000
 }

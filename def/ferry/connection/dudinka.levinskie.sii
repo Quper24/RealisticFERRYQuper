@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.dudinka.levinskie {
-	price: 50
+	price: 5
 	time: 15
 	distance: 10
 }

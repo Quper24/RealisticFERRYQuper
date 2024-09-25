@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.santander.cork {
-	price: 1310
+	price: 131
 	time: 1505
 	distance: 780
 }

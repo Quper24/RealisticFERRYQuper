@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.igoumenitsa.patra {
-	price: 1500
+	price: 150
 	time: 750
 	distance: 400
 }

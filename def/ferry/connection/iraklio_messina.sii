@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.iraklio.messina {
-	price: 1127
+	price: 112
 	time: 1807
 	distance: 980
 }

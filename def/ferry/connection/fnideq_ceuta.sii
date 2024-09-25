@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.fnideq.ceuta {
-	price: 99
+	price: 9
 	time: 90
 	distance: 100
 }

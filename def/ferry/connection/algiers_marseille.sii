@@ -1,8 +1,4 @@
 SiiNunit
 {
-ferry_connection : conn.algiers.marseille {
-	price: 1556
-	time: 1083
-	distance: 658
-}
+
 }

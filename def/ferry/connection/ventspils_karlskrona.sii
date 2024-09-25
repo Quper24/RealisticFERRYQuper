@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.ventspils.karlskrona {
-	price: 700
+	price: 70
 	time: 700
 	distance: 400
 }

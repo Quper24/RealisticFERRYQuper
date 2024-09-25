@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.swinoujscie.liepaja {
-	price: 1700
+	price: 170
 	time: 1120
 	distance: 800
 }

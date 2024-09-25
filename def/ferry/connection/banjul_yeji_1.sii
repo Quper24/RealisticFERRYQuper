@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.banjul.yeji_1{
-	price: 560
+	price: 56
 	time: 700
 	distance: 1550
 

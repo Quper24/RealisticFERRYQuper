@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.portsaid.suakin {
-	price: 2350
+	price: 235
 	time: 2500
 	distance: 1533
 

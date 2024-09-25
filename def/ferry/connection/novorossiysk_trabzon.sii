@@ -1,10 +1,9 @@
 SiiNunit
 {
 ferry_connection : conn.novorossiysk.trabzon{
-	price: 1260
+	price: 126
 	time: 1056
 	distance: 556
-
 }
 }
 

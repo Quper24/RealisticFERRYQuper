@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.igoumenitsa.heraklion {
-	price: 1027
+	price: 102
 	time: 1007
 	distance: 880
 }

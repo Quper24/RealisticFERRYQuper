@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.messina.corfu{
-	price: 799
+	price: 79
 	time: 833
 	distance: 497
 }

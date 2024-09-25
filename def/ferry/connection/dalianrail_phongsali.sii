@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.dalianrail.phongsali{
-	price: 1550
+	price: 155
 	time: 2958
 	distance: 3858
 }

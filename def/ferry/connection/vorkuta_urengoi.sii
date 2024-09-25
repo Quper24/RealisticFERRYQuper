@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.vorkuta.urengoi {
-	price: 2050
+	price: 205
 	time: 1720
 	distance: 750
 }

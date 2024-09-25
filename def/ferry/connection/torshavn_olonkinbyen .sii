@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.torshavn.olonkinbyen{
-	price: 1400
+	price: 140
 	time: 1234
 	distance: 650
 }

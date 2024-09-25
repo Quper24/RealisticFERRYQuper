@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.corfu.vlor2 {
-	price: 120
+	price: 12
 	time: 120
 	distance: 120
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.novorossiysk.poti{
-	price: 763
+	price: 76
 	time: 720
 	distance: 389
 }

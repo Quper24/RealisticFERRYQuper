@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.mersin.ashdod{
-	price: 1441
+	price: 144
 	time: 975
 	distance: 520
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.barnaul.surgut {
-	price: 1443
+	price: 144
 	time: 2880
 	distance: 2222
 }

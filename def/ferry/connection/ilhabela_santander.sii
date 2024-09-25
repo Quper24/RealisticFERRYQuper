@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.ilhabela.santander{
-	price: 5163
+	price: 516
 	time: 1492
 	distance: 4789
 }

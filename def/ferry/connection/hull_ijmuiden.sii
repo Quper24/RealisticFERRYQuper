@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.hull.ijmuiden {
-	price: 1624
+	price: 162
 	time: 1050
 	distance: 525
 }

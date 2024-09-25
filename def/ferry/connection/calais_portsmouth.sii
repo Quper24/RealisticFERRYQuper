@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.calais.portsmouth {
-	price: 1124
+	price: 112
 	time: 776
 	distance: 305
 }

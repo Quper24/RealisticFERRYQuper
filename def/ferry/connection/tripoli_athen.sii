@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.tripoli.athen {
-	price: 1527
+	price: 152
 	time: 1747
 	distance: 980
 }

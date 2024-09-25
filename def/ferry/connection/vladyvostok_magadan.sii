@@ -1,9 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.vladyvostok.magadan {
-	price: 581
-	time: 905
-	distance: 2692
+	price: 204
+	time: 2998
+	distance: 1826
 }
 }
-

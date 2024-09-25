@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.durres.corfu{
-	price: 799
+	price: 79
 	time: 599
 	distance: 397
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.barnaul.tunnel_f{
-	price: 2763
+	price: 276
 	time: 3072
 	distance: 2389
 }

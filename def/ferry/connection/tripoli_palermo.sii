@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.tripoli.palermo{
-	price: 2150
+	price: 215
 	time: 1560
 	distance: 980
 }

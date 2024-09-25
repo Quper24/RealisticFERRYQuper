@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.longyearbyen.nanortalik{
-	price: 1463
+	price: 146
 	time: 3652
 	distance: 3089
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.nanortalik.plymouth{
-	price: 2463
+	price: 246
 	time: 3002
 	distance: 1589
 }
