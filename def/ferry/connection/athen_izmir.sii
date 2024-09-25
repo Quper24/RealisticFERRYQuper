@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.athen.izmir {
-	price: 92
+	price: 920
 	time: 607
 	distance: 300
 }

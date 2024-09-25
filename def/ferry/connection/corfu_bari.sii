@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.corfu.bari {
-	price: 91
+	price: 910
 	time: 667
 	distance: 300
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.novorossiysk.sevas{
-	price: 96
+	price: 960
 	time: 756
 	distance: 356
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.capetown.thalang {
-	price: 404
+	price: 4040
 	time: 5668
 	distance: 3126
 }

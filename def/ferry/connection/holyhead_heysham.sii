@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.holyhead.heysham {
-	price: 110
+	price: 1100
 	time: 410
 	distance: 200
 }

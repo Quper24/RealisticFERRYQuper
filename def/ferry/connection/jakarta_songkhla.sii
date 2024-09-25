@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.jakarta.songkhla{
-	price: 135
+	price: 1350
 	time: 2711
 	distance: 2276
 }

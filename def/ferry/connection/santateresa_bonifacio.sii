@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.santateresa.bonifacio {
-	price: 50
+	price: 500
 	time: 45
 	distance: 18
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.miastoswino.portswinou {
-	price: 1
+	price: 10
 	time: 10
 	distance : 1
 }

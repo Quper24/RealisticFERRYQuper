@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.portsaid.lemesos{
-	price: 60
+	price: 600
 	time: 770
 	distance: 385
 

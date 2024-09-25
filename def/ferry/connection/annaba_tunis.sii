@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.annaba.tunis {
-	price: 87
+	price: 870
 	time: 690
 	distance: 335
 

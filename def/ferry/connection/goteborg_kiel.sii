@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.goteborg.kiel{
-	price: 124
+	price: 1240
 	time: 870
 	distance: 435
 
